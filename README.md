@@ -1,5 +1,9 @@
 ### Olá! Eu sou o Thales Maggot, mais conhecido como MrMadara!
 
+![MrMadara's Github stats](https://github-readme-stats.vercel.app/api?username=MrMadara&show_icons=true&theme=radical)
+
+### Redes Social:
+
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wJp7Zeghy9)
 
 ### Sistemas Operacionais preferidos:
@@ -27,4 +31,4 @@
 
 Eu sou um entusiasta da tecnologia, adoro aprender novas linguagens de programação e experimentar diferentes sistemas operacionais. Eu também tenho experiência com Kali Linux e outras ferramentas de segurança cibernética.
 
-No meu tempo livre, gosto de contribuir para projetos de código aberto e ajudar a comunidade de desenvolvedores. Sinta-se à vontade para me enviar uma mensagem se precisar de ajuda ou quiser colaborar em algum projeto!
+No meu tempo livre, gosto de contribuir para projetos de código aberto e ajudar a comunidade de desenvolvedores. Sinta-se à vontade para me enviar uma mensagem se precisar de ajuda ou quiser colabor
