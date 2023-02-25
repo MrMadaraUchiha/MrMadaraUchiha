@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Thales Maggot, mais conhecido como MrMadara!
 
-![MrMadara's Github stats](https://github-readme-stats.vercel.app/api?username=MrMadara&show_icons=true&theme=radical)
+[![MrMadara GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMadaraUchiha)](https://github.com/MrMadaraUchiha/github-readme-stats)
 
 ### Redes Social:
 
