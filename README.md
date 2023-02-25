@@ -8,7 +8,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wJp7Zeghy9)
 
-### Plataformas de prototipagem:
+### Plataformas de Prototipagem:
 
 ![RaspBerry PI](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![ARDUINO](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
