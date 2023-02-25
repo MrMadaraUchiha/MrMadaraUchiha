@@ -44,4 +44,4 @@
 
 Eu sou um entusiasta da tecnologia, adoro aprender novas linguagens de programação e experimentar diferentes sistemas operacionais. Eu também tenho experiência com Kali Linux e outras ferramentas de segurança cibernética.
 
-No meu tempo livre, gosto de contribuir para projetos de código aberto e ajudar a comunidade de desenvolvedores. Sinta-se à vontade para me enviar uma mensagem se precisar de ajuda ou quiser colabor
+No meu tempo livre, gosto de contribuir para projetos de código aberto e ajudar a comunidade de desenvolvedores. Sinta-se à vontade para me enviar uma mensagem se precisar de ajuda ou quiser colaborar em algum projeto.
