@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Thales Maggot, mais conhecido como MrMadara!
 
 ![MrMadara GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMadaraUchiha&theme=blue-green)
-<a href=#><img src="contributions.svg"></a>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMadaraUchiha&theme=blue-green)
 
 ### Redes Social:
@@ -45,3 +45,8 @@
 Eu sou um entusiasta da tecnologia, adoro aprender novas linguagens de programação e experimentar diferentes sistemas operacionais. Eu também tenho experiência com Kali Linux e outras ferramentas de segurança cibernética.
 
 No meu tempo livre, gosto de contribuir para projetos de código aberto e ajudar a comunidade de desenvolvedores. Sinta-se à vontade para me enviar uma mensagem se precisar de ajuda ou quiser colaborar em algum projeto.
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/MrMadaraUchiha/count.svg" />
+</p>
