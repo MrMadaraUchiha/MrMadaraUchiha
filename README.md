@@ -3,6 +3,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMadaraUchiha&theme=blue-green)
  ![MrMadara GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMadaraUchiha&theme=blue-green) 
 
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
 
 ### Redes Social:
 
