@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Thales Maggot, mais conhecido como MrMadara!
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=MrMadaraUchiha36&show_icons=true&count_private=true&hide_border=true&title_color=007fff&icon_color=007fff&text_color=c9d1d9&bg_color=0d1117)
- ![MrMadara GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMadaraUchiha36&layout=compact&hide_border=true&title_color=007fff&text_color=007fff&bg_color=0d1117) 
+![Top Langs](https://github-readme-stats.vercel.app/api?username=MrMadaraUchiha&show_icons=true&count_private=true&hide_border=true&title_color=007fff&icon_color=007fff&text_color=c9d1d9&bg_color=0d1117)
+ ![MrMadara GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMadaraUchiha&layout=compact&hide_border=true&title_color=007fff&text_color=007fff&bg_color=0d1117) 
 
 <a href=#><img src="contributions.svg"></a>
 
