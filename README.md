@@ -27,6 +27,7 @@
 ![Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Xubuntu](https://img.shields.io/badge/Xubuntu-A11F6B?style=for-the-badge&logo=xubuntu&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-5391FE?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Linguagens de programação que tenho experiência:
 
