@@ -51,4 +51,5 @@ No meu tempo livre, gosto de contribuir para projetos de código aberto e ajudar
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/MrMadaraUchiha/count.svg" />
+ 
 </p>
