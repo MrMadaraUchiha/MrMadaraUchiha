@@ -6,6 +6,8 @@ No meu tempo livre, gosto de contribuir para projetos de código aberto e ajudar
  ![Top Langs](https://github-readme-stats.vercel.app/api?username=MrMadaraUchiha&show_icons=true&count_private=true&hide_border=true&title_color=007fff&icon_color=007fff&text_color=c9d1d9&bg_color=0d1117)
  ![MrMadara GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMadaraUchiha&layout=compact&hide_border=true&title_color=007fff&text_color=007fff&bg_color=0d1117)
 
+<a href=#><img src="contributions.svg"></a>
+
 ### Redes Social:
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wJp7Zeghy9)
