@@ -12,11 +12,8 @@ No meu tempo livre, gosto de contribuir para projetos de código aberto e ajudar
 
 ## Certificações:
 
-- [Grasshopper- (08/04/2022)](./certs/grasshopper)
-
-### FreeCodeCamp:
-
-- [FreeCodeCamp Em andamento - (...)](./certs/FreeCodeCamp.pdf)
+- [Grasshopper - (08/04/2022)](./certs)
+- [FreeCodeCamp - (EM ANDAMENTO)](./certs)
 
 ## Plataformas de Prototipagem que trabalho:
 
