@@ -1,17 +1,14 @@
-# Seja bem vindo ao meu perfil do Github
+# Seja bem vindo ao meu perfil do Github!
 
-Olá! Eu sou Thales, mais conhecido como MrMadara. Eu sou um entusiasta da tecnologia, adoro aprender novas linguagens de programação e experimentar diferentes sistemas operacionais. Eu também tenho experiência com Kali Linux e outras ferramentas de segurança cibernética. 
+Olá! Eu sou Thales Maggot, mais conhecido como MrMadara. Eu sou um entusiasta da tecnologia, adoro aprender novas linguagens de programação e experimentar diferentes sistemas operacionais. Eu também tenho experiência com Kali Linux e outras ferramentas de segurança cibernética. 
 No meu tempo livre, gosto de contribuir para projetos de código aberto e ajudar a comunidade de desenvolvedores. Sinta-se à vontade para me enviar uma mensagem se precisar de ajuda ou quiser colaborar em algum projeto.
-#
-<a href=#><img src="contributions.svg"></a>
-#
-![Top Langs](https://github-readme-stats.vercel.app/api?username=MrMadaraUchiha&show_icons=true&count_private=true&hide_border=true&title_color=007fff&icon_color=007fff&text_color=c9d1d9&bg_color=0d1117)
- ![MrMadara GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMadaraUchiha&layout=compact&hide_border=true&title_color=007fff&text_color=007fff&bg_color=0d1117) 
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api?username=MrMadaraUchiha&show_icons=true&count_private=true&hide_border=true&title_color=007fff&icon_color=007fff&text_color=c9d1d9&bg_color=0d1117)
+ ![MrMadara GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMadaraUchiha&layout=compact&hide_border=true&title_color=007fff&text_color=007fff&bg_color=0d1117)
 
 ### Redes Social:
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wJp7Zeghy9)
-
 
 ## Certificações:
 
@@ -30,12 +27,12 @@ No meu tempo livre, gosto de contribuir para projetos de código aberto e ajudar
 
 - [FreeCodeCamp Em andamento - (...)](./certs/FreeCodeCamp.pdf)
 
-### Plataformas de Prototipagem que trabalho:
+## Plataformas de Prototipagem que trabalho:
 
 ![RaspBerry PI](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![ARDUINO](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-### Sistemas Operacionais preferidos:
+## Sistemas Operacionais preferidos:
 
 ![MAC OS](https://img.shields.io/badge/MAC_OS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -49,7 +46,7 @@ No meu tempo livre, gosto de contribuir para projetos de código aberto e ajudar
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Xubuntu](https://img.shields.io/badge/Xubuntu-A11F6B?style=for-the-badge&logo=xubuntu&logoColor=white)
 
-### Linguagens de programação que tenho experiência:
+## Linguagens de programação que tenho experiência:
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
