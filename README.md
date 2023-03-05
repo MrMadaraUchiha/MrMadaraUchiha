@@ -11,6 +11,7 @@ No meu tempo livre, gosto de contribuir para projetos de código aberto e ajudar
 ### Redes Social:
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wJp7Zeghy9)
+[![XBOX](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/pt-BR/Profile?xr=mebarnav&csrf=WIKoI_ARnDpo8Ffqv197FNDZMKlyfE8yymXciN5juhtA7sRTxbZA1t6-3ZRVloBnR64LHYgsjR_g417XL0G0puu0glQ1&wa=wsignin1.0)
 
 ## Certificações:
 
