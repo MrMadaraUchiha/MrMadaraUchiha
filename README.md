@@ -1,18 +1,34 @@
-### Olá! Eu sou o Thales Maggot, mais conhecido como MrMadara!
+# Seja bem vindo ao meu perfil do Github
 
+Olá! Eu sou Thales, mais conhecido como MrMadara. Eu sou um entusiasta da tecnologia, adoro aprender novas linguagens de programação e experimentar diferentes sistemas operacionais. Eu também tenho experiência com Kali Linux e outras ferramentas de segurança cibernética. 
+No meu tempo livre, gosto de contribuir para projetos de código aberto e ajudar a comunidade de desenvolvedores. Sinta-se à vontade para me enviar uma mensagem se precisar de ajuda ou quiser colaborar em algum projeto.
+#
+<a href=#><img src="contributions.svg"></a>
+#
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=MrMadaraUchiha&show_icons=true&count_private=true&hide_border=true&title_color=007fff&icon_color=007fff&text_color=c9d1d9&bg_color=0d1117)
  ![MrMadara GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMadaraUchiha&layout=compact&hide_border=true&title_color=007fff&text_color=007fff&bg_color=0d1117) 
-
-<a href=#><img src="contributions.svg"></a>
 
 ### Redes Social:
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wJp7Zeghy9)
 
 
-### Certificações:
+## Certificações:
 
+### Grasshopper:
 
+- [Grasshopper Introdução a Entrevista - (06/03/2021)](./certs/GrasshopperIntroduçãoàentrevistaCertificate.pdf)
+/  [Grasshopper Introdução a Páginas da Web - (06/03/2021)](./certs/GrasshopperIntroduçãoapáginasdaWebCertificate.pdf)
+/  [Grasshopper Uso de um editor de código - (06/03/2021)](./certs/GrasshopperUsodeumeditordecódigoCertificate.pdf)
+/  [Grasshopper Animações - (07/03/2021)](./certs/GrasshopperAnimaçõesCertificate.pdf)
+/  [Grasshopper Animações II - (19/04/2021)](./certs/GrasshopperAnimaçõesIICertificate.pdf)
+/  [Grasshopper Automação - (24/05/2021)](./certs/GrasshopperAutomaçãoCertificate.pdf)
+/  [Grasshopper F. Codificação - (22/06/2021)](./certs/GrasshopperFundamentosdecodificaçãoCertificate.pdf)
+/  [Grasshopper F. de Programação II - (04/07/2021)](./certs/GrasshopperFundamentosdeProgramaçãoIICertificate.pdf)
+
+### FreeCodeCamp:
+
+- [FreeCodeCamp Em andamento - (...)](./certs/FreeCodeCamp.pdf)
 
 ### Plataformas de Prototipagem que trabalho:
 
@@ -46,13 +62,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 [![Shell](https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=gnu-bash&logoColor=black)](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-
-### Sobre mim:
-
-Eu sou um entusiasta da tecnologia, adoro aprender novas linguagens de programação e experimentar diferentes sistemas operacionais. Eu também tenho experiência com Kali Linux e outras ferramentas de segurança cibernética.
-
-No meu tempo livre, gosto de contribuir para projetos de código aberto e ajudar a comunidade de desenvolvedores. Sinta-se à vontade para me enviar uma mensagem se precisar de ajuda ou quiser colaborar em algum projeto.
 
 <p align="center"> 
   Visitor count<br>
