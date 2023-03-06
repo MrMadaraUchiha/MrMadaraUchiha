@@ -66,6 +66,6 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/MrMadaraUchiha/count.svg" />
+ <img src="https://profile-counter.glitch.me/MrMadaraUchiha/count.svg" />
  
 </p>
