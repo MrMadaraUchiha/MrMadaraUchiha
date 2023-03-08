@@ -1,6 +1,9 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff93a4&height=120&section=header"/>
+
 #  Seja bem vindo ao meu perfil do Github!
 
 - Olá! Eu sou Thales Maggot, mais conhecido como MrMadara. Eu sou um entusiasta da tecnologia, adoro aprender novas linguagens de programação e experimentar diferentes sistemas operacionais. Eu também tenho experiência com Kali Linux e outras ferramentas de segurança cibernética. No meu tempo livre, gosto de contribuir para projetos de código aberto e ajudar a comunidade de desenvolvedores. Sinta-se à vontade para me enviar uma mensagem se precisar de ajuda ou quiser colaborar em algum projeto.
+
 
  ![Top Langs](https://github-readme-stats.vercel.app/api?username=MrMadaraUchiha&show_icons=true&count_private=true&hide_border=true&title_color=007fff&icon_color=007fff&text_color=c9d1d9&bg_color=0d1117)
  ![MrMadara GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMadaraUchiha&layout=compact&hide_border=true&title_color=007fff&text_color=007fff&bg_color=0d1117)
@@ -63,8 +66,12 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MrMadaraUchiha&bg_color=000000&color=2afa00&line=59f505&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p align="center"> 
   Visitor count<br>
  <img src="https://profile-counter.glitch.me/MrMadaraUchiha/count.svg" />
- 
-</p>
+ </p>
