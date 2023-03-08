@@ -69,8 +69,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MrMadaraUchiha&bg_color=000000&color=2afa00&line=59f505&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p align="center"> 
   Visitor count<br>
  <img src="https://profile-counter.glitch.me/MrMadaraUchiha/count.svg" />
