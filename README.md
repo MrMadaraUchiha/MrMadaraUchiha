@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff93a4&height=120&section=header"/>
 
-#  Seja bem vindo ao meu perfil do Github!
+#  Seja bem vindo ao meu perfil no Github!
 
 - ## Olá! Eu sou Thales Maggot, mais conhecido como MrMadara. Eu sou um entusiasta da tecnologia, adoro aprender novas linguagens de programação e experimentar diferentes sistemas operacionais. Eu também tenho experiência com Kali Linux e outras ferramentas de segurança cibernética. No meu tempo livre, gosto de contribuir para projetos de código aberto e ajudar a comunidade de desenvolvedores. Sinta-se à vontade para me enviar uma mensagem se precisar de ajuda ou quiser colaborar em algum projeto.
 
