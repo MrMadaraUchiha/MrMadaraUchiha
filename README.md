@@ -18,9 +18,11 @@
 ## Certificações:
 
 - [Grasshopper - (08/04/2022)](./certs)
+- [Grid Garden - (01/09/2023)](./certs)
 - [FreeCodeCamp - (EM ANDAMENTO)](./certs)
 - [IntelBras - (EM ANDAMENTO)](./certs)
 - [HikVision - (EM ANDAMENTO)](./certs)
+
 
 ## Plataformas de prototipagem:
 
