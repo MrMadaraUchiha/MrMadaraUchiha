@@ -2,7 +2,7 @@
 
 # Bem-vindo ao meu perfil no GitHub!
 
-Olá, sou Thales Maggot, mais conhecido como MrMadara. Sou um entusiasta da tecnologia, apaixonado por aprender novas linguagens de programação e experimentar diferentes sistemas operacionais. Tenho experiência com Kali Linux e outras ferramentas de segurança cibernética. No meu tempo livre, contribuo para projetos de código aberto e ajudo a comunidade de desenvolvedores. Sinta-se à vontade para entrar em contato se precisar de ajuda ou quiser colaborar em algum projeto..
+Olá, sou Thales Maggot, mais conhecido como MrMadara. Sou um entusiasta da tecnologia, apaixonado por aprender novas linguagens de programação e experimentar diferentes sistemas operacionais. Tenho experiência com Kali Linux e outras ferramentas de segurança cibernética. No meu tempo livre, contribuo para projetos de código aberto e ajudo a comunidade de desenvolvedores. Sinta-se à vontade para entrar em contato se precisar de ajuda ou quiser colaborar em algum projeto.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=MrMadaraUchiha&show_icons=true&count_private=true&hide_border=true&title_color=007fff&icon_color=007fff&text_color=c9d1d9&bg_color=0d1117)
 
