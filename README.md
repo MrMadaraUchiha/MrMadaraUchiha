@@ -34,6 +34,7 @@ Olá, sou Thales Maggot, mais conhecido como MrMadara. Sou um entusiasta da tecn
 
 - [Grasshopper - (08/04/2022)](./certs)
 - [Grid Garden - (01/09/2023)](./certs)
+- [HackerSec - (??/??/????)](./certs)
 
 ## Plataformas de Prototipagem
 
