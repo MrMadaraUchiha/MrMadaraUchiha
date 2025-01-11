@@ -18,6 +18,8 @@ Olá, sou Thales Maggot, mais conhecido como MrMadara. Sou um entusiasta da tecn
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)
+![Rockstar Games](https://img.shields.io/badge/Rockstar%20Games-FCAF17.svg?style=for-the-badge&logo=Rockstar-Games&logoColor=black)
 
 ## Video Games
 
@@ -65,6 +67,9 @@ Olá, sou Thales Maggot, mais conhecido como MrMadara. Sou um entusiasta da tecn
 ## Linguagens e Ferramentas
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SpigotMC](https://img.shields.io/badge/SpigotMC-ED8106.svg?style=for-the-badge&logo=SpigotMC&logoColor=white)
+![Pterodactyl](https://img.shields.io/badge/Pterodactyl-10539F.svg?style=for-the-badge&logo=Pterodactyl&logoColor=white)
+![CurseForge](https://img.shields.io/badge/CurseForge-F16436.svg?style=for-the-badge&logo=CurseForge&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
